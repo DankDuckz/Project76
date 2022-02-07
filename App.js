@@ -5,6 +5,7 @@ import HomeScreen from './screens/HomeScreen'
 import DailyPic from './screens/DailyPic'
 import SpaceCrafts from './screens/SpaceCrafts';
 import StarMap from './screens/StarMap';
+import * as React from 'react'
 
 const Stack = createStackNavigator()
 
